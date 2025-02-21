@@ -1,6 +1,11 @@
 # Ios-shortcuts
 https://www.reddit.com/r/iphone/comments/1f3impp/comment/lw8c67g/
+Via Action Button
 
+Open Action Button Settings (Settings -> “Action Button”)
+Set it to “Shortcut”
+Choose your shortcut
+Now when you hold the action button, it takes a silent screenshot but also reverts the sound mode back to normal after.
 Silent screenshots
 Web2notes
 https://www.reddit.com/r/shortcuts/comments/9prn2n/save_text_from_webpages_to_ios_notes_app/
